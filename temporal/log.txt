@@ -1,0 +1,2 @@
+id_reserva;id_hotel;canal;noches;importe;id_reserva_1;medio;cobrado;id_hotel_1;hotel;comarca;id_cadena
+10;5;web      ;4;280;10;tarjeta ;280;5;Noja     ;Trasmiera ;10
