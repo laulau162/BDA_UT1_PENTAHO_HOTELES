@@ -1,0 +1,3 @@
+id_reserva;id_hotel;canal;importe;motivo
+4;2;web;89.9;Sin cobro asociado
+9;5;ota;140.0;Sin cobro asociado

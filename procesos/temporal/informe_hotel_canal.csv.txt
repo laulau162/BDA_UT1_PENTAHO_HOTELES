@@ -1,0 +1,14 @@
+hotel;canal;n_reservas;cobrado_total
+Comillas;ota;1;132,0
+Comillas;recepcion;1;525,0
+Comillas;web;2;642,0
+Laredo;ota;1;124,0
+Laredo;web;2;496,5
+Noja;ota;1;195,0
+Noja;web;1;280,0
+Potes;ota;1;260,0
+Potes;recepcion;1;201,0
+Potes;web;1;150,0
+Santander;ota;1;390,0
+Santander;recepcion;1;410,0
+Santander;web;1;160,0
