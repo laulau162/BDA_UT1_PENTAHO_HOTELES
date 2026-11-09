@@ -1,6 +1,0 @@
-id_hotel;hotel;comarca;id_cadena
-1;Laredo;Trasmiera;10
-2;Santander;Santander;20
-3;Potes;Liebana;30
-4;Comillas;Saja-Nansa;10
-5;Noja;Trasmiera;10
